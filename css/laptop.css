@@ -1,0 +1,23 @@
+/* Laptops View - For larger screens */
+@media screen and (min-width: 1024px) {
+    .main-nav .nav-list {
+        gap: 30px;
+    }
+
+    .cta-button {
+        padding: 10px 20px;
+        font-size: 18px;
+    }
+
+    .product-grid {
+        gap: 30px;
+    }
+
+    .product-card {
+        width: 220px;
+    }
+
+    .banner-title {
+        font-size: 3rem;
+    }
+}
